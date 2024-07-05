@@ -1,0 +1,10 @@
+"id";nombre jugador;goles;posicion;dorsal;pais;edad;valor en el marcado;tipo de jugador;estado
+"1";cristiano ronaldo;450;DC;7;portugal;39;15M;historico;activo
+"2";zidane;49;MC;5;francia;51;-;historico;retirado
+"3";vinicius jr;83;EI;7;brazil;23;180M;titular;activo
+"4";caravajal;13;LD;2;espa�a;32;12M;titular;activo
+"5";bellingham;23;MP;5;inglaterra;21;180M;titular;activo
+"6";militao;11;DFC;3;brazil;26;60M;suplente;lesionado
+"7";rudiger;4;DFC;22;alemania;31;25M;titular;activo
+"8";alaba;5;DFC;4;brazil;31;20M;suplente;lesionado
+"9";nacho;16;DFC;6;espa�a;34;3M;titular;activo
